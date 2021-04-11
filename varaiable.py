@@ -4,7 +4,7 @@ c=45.757363
 d= True
 e= None
 #printing the variables
-print(1-a)
+print(a)
 print(b)
 print(c)
 print(d)
