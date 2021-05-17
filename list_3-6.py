@@ -1,0 +1,11 @@
+guest = ["seam","binoy","aryian"]
+guest.insert(0,"nabila")
+guest.insert(3,"iffat")
+guest.append("afsana")
+print(guest)
+print(f"{guest[0].upper()} is invited in my dinner party.")
+print(f"{guest[1].title()} is invited in my dinner party.")
+print(f"{guest[2].upper()} is invited in my dinner party.")
+print(f"{guest[3].upper()} is invited in my dinner party.")
+print(f"{guest[4].title()} is invited in my dinner party.")
+print(f"{guest[5].upper()} is invited in my dinner party.")
