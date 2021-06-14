@@ -6,6 +6,6 @@ Twinkle, twinkle, little star
 How I wonder what you are''')
 
 # we can write multiline comments
-# buy using either '''
+# by using either '''
 # and also ctrl+/
 # ctrl+/ is like shortcut of 
