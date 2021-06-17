@@ -2,16 +2,16 @@ text = input("enter the text here\n")
 if ("make a lot of money" in text):
     spam = True
     print("this text is spam: ")
-if ("click in this link" in text):
+elif ("click in this link" in text):
     spam = True
     print("this text is spam: ")
-if ("get iphone" in text):
+elif ("get iphone" in text):
     spam = True
     print("this text is spam: ")
-if ("watch this now" in text):
+elif ("watch this now" in text):
     spam = True
     print("this text is spam: ")
-if ("How I made 1 million" in text):
+elif ("How I made 1 million" in text):
     spam = True
     print("this text is spam: ")
 else:

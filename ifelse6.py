@@ -5,5 +5,5 @@ if(payment>500 and payment<10000):
 else:
     print("please give us cash.")
 #any amount will bring for "or" ----->you can pay via card or Bkash.
-#any amount less than 500 will bring for "and" ----->please give us cash.
+#any amount less than 501 will bring for "and" ----->please give us cash.
 ##any amount more than 500 will bring for "and" ----->you can pay via card or Bkash.
