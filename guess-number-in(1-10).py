@@ -1,6 +1,6 @@
 import random
 target_num =random.randint(1,10)
-guess_num = 0
+guess_num =5
 if target_num==guess_num:
     print("the number i Targetted is",target_num,"same as your guess-number: ",guess_num)
 else:

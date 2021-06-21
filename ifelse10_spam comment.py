@@ -15,7 +15,7 @@ elif ("How I made 1 million" in text):
     spam = True
     print("this text is spam: ")
 else:
-    spam = False
+    spam = True
     print("this text is not spam.")
 #we need to find out why "this text is not spam keeps coming up"
     
