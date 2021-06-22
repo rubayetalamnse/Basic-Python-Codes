@@ -1,5 +1,3 @@
-
-
 color_list = ["red", "green", "blue", "yellow","white", "purple","magenta"]
 
 print("Can you guess the colors I like?")
