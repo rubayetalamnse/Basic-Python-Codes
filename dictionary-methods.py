@@ -59,3 +59,6 @@ Dictionary_returns.clear()
 print(Dictionary_returns)  # the output is ---> {}
 # now we will print new_dictionary which is the copied version of Dictionary returns-->
 print(new_dictionary)
+d = {'x': 1, 'y': 2, 'z': 3} 
+for key in d:
+    print(key, 'corresponds to', d[key])
