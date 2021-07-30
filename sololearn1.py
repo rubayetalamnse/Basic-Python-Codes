@@ -15,3 +15,4 @@ letter = text.split()
 average = sum(len(word) for word in letter) / len(letter)
 
 print(average)
+
